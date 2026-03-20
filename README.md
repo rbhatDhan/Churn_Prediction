@@ -84,17 +84,9 @@ XGBoost performed the best due to its ability to handle complex patterns and non
 - **Month-to-month contracts** have higher churn rates
 - **Higher monthly charges** may increase churn probability
 
----
-
-## 📁 Project Structure
-- `notebook/` → Jupyter Notebook (analysis and model)
-- `data/` → Dataset
-- `model/` → Saved model file
-- `requirements.txt` → Required libraries
-
----
 
 ## 🚀 How to Run the Project
 
 1. Clone the repository
 2. Install dependencies
+3. Run
