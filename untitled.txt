@@ -1,0 +1,35 @@
+# Customer Churn Prediction
+## Using Machine Learning to predict customer churn for a Telecom company
+
+---
+
+## 1. Imports & Setup
+## 2. Load Data
+## 3. Exploratory Data Analysis (EDA)
+## 4. Data Preprocessing
+## 5. Model Building
+## 6. Model Evaluation & Improvement
+## 7. Feature Importance
+## 8. Save & Deploy Model
+```
+
+---
+
+## Part 3 — Set Up GitHub
+
+### Step 1 — Create a `.gitignore` file
+Create a file called `.gitignore` in your project folder:
+```
+# Data (too large for GitHub)
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
