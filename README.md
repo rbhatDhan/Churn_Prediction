@@ -97,4 +97,4 @@ XGBoost performed the best due to its ability to handle complex patterns and non
 ## 🚀 How to Run the Project
 
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies
